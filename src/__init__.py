@@ -1,0 +1,1 @@
+"""Game ingest service package."""
